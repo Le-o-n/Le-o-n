@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n)](https://github.com/Le-o-n/github-readme-stats)
 <!--
 **Le-o-n/Le-o-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
