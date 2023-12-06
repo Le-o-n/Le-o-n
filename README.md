@@ -1,8 +1,6 @@
 ## Hey there! Welcome to my profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&theme=radical&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=true)
 <!--
 **Le-o-n/Le-o-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
