@@ -1,17 +1,16 @@
 ## Hey there! Welcome to my profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&theme=radical&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=true)
-<!--
-**Le-o-n/Le-o-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&theme=radical&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=false)
+<div>
+    <img src="python.png" alt="Python" width="50" style="margin-right: 30px;" /> 
+    <img src="java.png" alt="Java" width="65" style="margin-right: 30px;" />
+    <img src="cython.png" alt="Cython" width="60" style="margin-right: 45px;" /> 
+    <img src="cpp.png" alt="C++" width="55" style="margin-right: 45px;" />
+    <img src="c.png" alt="C" width="55" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- ⚡ I'm currently studying Computer Science (MEng) at the University of Warwick.
+- 📫 Currently Python and Cython are my favourite languages.
+- 🔭 I’m currently working on a Cython interface file (.pyi) compiler written in Cython.
+- 🌱 I’m currently learning Cython.
