@@ -14,7 +14,6 @@
 </div>
 
 ## About Me
-- ⚡ I'm currently studying Computer Science (MEng) at the University of Warwick.
-- 📫 Currently Python and Cython are my favourite languages.
-- 🔭 I’m currently working on a Cython interface file (.pyi) compiler written in Cython.
-- 🌱 I’m currently learning Cython.
+- ⚡ Studying Computer Science (MEng) at the University of Warwick.
+- 🐍 Python and Cython are my favourite languages.
+- 🔭 Working on Cython bindings for the Raylib game engine .
