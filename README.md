@@ -16,4 +16,5 @@
 ## About Me
 - ⚡ Studying Computer Science (MEng) at the University of Warwick.
 - 🐍 Python and Cython are my favourite languages.
-- 🔭 Working on Cython bindings for the Raylib game engine .
+- 🔭 Working on Cython virtual memory manipulation
+- 📙 Starting to develop a Cython machine learning framework from scratch
