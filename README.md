@@ -1,6 +1,6 @@
 ## Hey there! Welcome to my profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&theme=highcontrast&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=false)
 <div>&nbsp;
     <img src="python.png" alt="Python" width="50"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,5 +16,5 @@
 ## About Me
 - ⚡ Studying Computer Science (MEng) at the University of Warwick.
 - 🐍 Python and Cython are my favourite languages.
-- 🔭 Working on Cython virtual memory manipulation
-- 📙 Starting to develop a Cython machine learning framework from scratch
+- 🔭 Building Neural Networks on stock predictions using window-based non-linear feature encodings.
+- 📙 Building a framework to develop and test trading strategies using Monte Carlo Simulations.
