@@ -15,6 +15,6 @@
 
 ## About Me
 - ⚡ Studying Computer Science (MEng) at the University of Warwick.
-- 🐍 Python and Cython are my favourite languages.
-- 🔭 Building Neural Networks on stock predictions using window-based non-linear feature encodings.
-- 📙 Building a framework to develop and test trading strategies using Monte Carlo Simulations.
+- 🐍 Reverse engineering games and writing code injections.
+- 🔭 Building Neural Networks on stock return prediction using LSTM-based Encoder-Decoder models.
+- 📙 Building a framework to develop and test trading strategies using Monte Carlo Simulations on historical data.
