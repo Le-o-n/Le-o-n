@@ -16,5 +16,5 @@
 ## About Me
 - ⚡ Studying Computer Science (MEng) at the University of Warwick.
 - 🐍 Reverse engineering games and writing code injections.
-- 🔭 Building Neural Networks on stock return prediction using LSTM-based Encoder-Decoder models.
-- 📙 Building a framework to develop and test trading strategies using Monte Carlo Simulations on historical data.
+- 🔭 Building video games and deep learning models in my spare time.
+- 📙 Building a Raylib Framework with extended functionality
