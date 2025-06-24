@@ -31,16 +31,6 @@
 
 ---
 
-## 🧪 Language Tier List (subject to zero debate)
-
-| Tier         | Languages                                                                                   |
-|--------------|----------------------------------------------------------------------------------------------|
-| 🟩 **S Tier** | <img src="c.png" alt="C" width="40"/> &nbsp; <img src="python.png" alt="Python" width="40"/> |
-| 🟨 **B Tier** | <img src="cpp.png" alt="C++" width="40"/>                                                    |
-| 🟧 **C Tier** | <img src="java.png" alt="Java" width="40"/>                                                  |
-
----
-
 ## 🔗 Connect With Me
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/leon-bass/)
