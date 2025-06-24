@@ -1,20 +1,51 @@
-## Hey there! Welcome to my profile!
+<h1 align="center">Hey there 👋, I'm Leon</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=false)
-<div>&nbsp;
-    <img src="python.png" alt="Python" width="50"/> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="java.png" alt="Java" width="65"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="cython.png" alt="Cython" width="60"/> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="cpp.png" alt="C++" width="55"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="c.png" alt="C" width="55"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-o-n&hide_progress=false" alt="Top Languages" />
+</p>
 
-## About Me
-- ⚡ Studying Computer Science (MEng) at the University of Warwick.
-- 🐍 Reverse engineering games and writing code injections.
-- 🔭 Building video games and deep learning models in my spare time.
-- 📙 Building a Raylib Framework with extended functionality
+---
+
+## 🧠 About Me
+
+- 🧪 Part-time researcher at **Warwick Manufacturing Group (WMG)**  
+- 🧹 Currently working on brain segmentation and flavour perception  
+- ⚙️ Big fan of **C** for its simplicity and performance  
+- 🤖 Exploring machine learning, ONNX, and model deployment  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="python.png" alt="Python" width="50"/>
+  &nbsp;&nbsp;
+  <img src="java.png" alt="Java" width="65"/>
+  &nbsp;&nbsp;
+  <img src="cython.png" alt="Cython" width="60"/>
+  &nbsp;&nbsp;
+  <img src="cpp.png" alt="C++" width="55"/>
+  &nbsp;&nbsp;
+  <img src="c.png" alt="C" width="55"/>
+</p>
+
+---
+
+## 🧪 Language Tier List (subject to zero debate)
+
+| Tier         | Languages                                                                                   |
+|--------------|----------------------------------------------------------------------------------------------|
+| 🟩 **S Tier** | <img src="c.png" alt="C" width="40"/> &nbsp; <img src="python.png" alt="Python" width="40"/> |
+| 🟨 **B Tier** | <img src="cpp.png" alt="C++" width="40"/>                                                    |
+| 🟧 **C Tier** | <img src="java.png" alt="Java" width="40"/>                                                  |
+
+---
+
+## 🔗 Connect With Me
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/leon-bass/)
+
+
+
