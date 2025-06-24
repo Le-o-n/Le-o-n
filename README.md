@@ -11,9 +11,7 @@
 ## 🧠 About Me
 
 - 🧪 Part-time researcher at **Warwick Manufacturing Group (WMG)**  
-- 🧹 Currently working on brain segmentation and flavour perception  
-- ⚙️ Big fan of **C** for its simplicity and performance  
-- 🤖 Exploring machine learning, ONNX, and model deployment  
+- 🧹 Currently working on brain segmentation and flavour perception research with **WMG**.
 
 ---
 
