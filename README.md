@@ -1,10 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Leon</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Le-o-n&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-  
-</p>
-
 ---
 
 ## 🧠 About Me
