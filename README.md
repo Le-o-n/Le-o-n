@@ -16,7 +16,7 @@
 | **Current Position**                   | Full-time MPhil/PhD Researcher (Computer Vision) under the Warwick Industrial Fellowship (WIF) scheme at Warwick Manufacturing Group (WMG), University of Warwick |
 | **Primary Work**                       | Training bespoke medical computer vision models and data analytics |
 | **Special Projects**                   | Various T2 structural MRI models, both for research and for fun |
-| **Years of Experience**                | Programming since 2011 (started with Scratch); began my undergraduate studies in 2020 |
+| **Years of Experience**                | Programming since 2011 (started with Scratch); began my undergraduate studies in 2020; started my postgraduate position in 2025 |
 
 
 ### Personal
